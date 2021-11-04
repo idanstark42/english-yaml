@@ -1,0 +1,19 @@
+{
+  "name": "english-yaml",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idanstark42/english-yaml.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/idanstark42/english-yaml/issues"
+  },
+  "homepage": "https://github.com/idanstark42/english-yaml#readme"
+}
